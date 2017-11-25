@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{063259A6-BAB1-33BE-D6A4-E4C881F0BA81}") = "Kuutio", "Assembly-CSharp.csproj", "{89856433-181C-25F8-D461-D7F5A3211932}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{89856433-181C-25F8-D461-D7F5A3211932}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89856433-181C-25F8-D461-D7F5A3211932}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89856433-181C-25F8-D461-D7F5A3211932}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89856433-181C-25F8-D461-D7F5A3211932}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
